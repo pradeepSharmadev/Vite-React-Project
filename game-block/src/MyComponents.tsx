@@ -1,11 +1,10 @@
-import Messase from './assets/Message'
-import Dynamic from './assets/Dynamic';
+import ListGroup from './Components/ListGroup';
+
 
 const Main = () => {
     return(
         <div>
-            <Messase />
-            <Dynamic />
+            <ListGroup />
         </div>
     )
 }
